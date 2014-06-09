@@ -1,12 +1,12 @@
 <article>
-	<h3> <a href="http://www.photoshop.com">Photoshop<a/> </h3>
+	<h3> <strong> Alternative à Photoshop </strong> </h3>
 	<p>
-		Photoshop, le logiciel le plus connu pour le traitement d'images, possède un seul défault: son prix. Heureusement, il existe des logiciels gratuits permettant tout aussi bien de traiter des images.
+		<a href="http://www.photoshop.com">Photoshop<a/>, le logiciel le plus connu pour le traitement d'images, possède un seul défault: son prix. Heureusement, il existe des logiciels gratuits permettant tout aussi bien de traiter des images.
 	</p>
 	
-	<h4> <a href="http://www.gimp.org">Gimp</a></h4>
+	<h4> Gimp </h4>
 	<p>
-		Gimp est un logiciel gratuit et libre (open source). Il fonctionne sur les principaux systèmes d'exploitation dont Microsoft Windows, GNU/Linux et Mac.
+		<a href="http://www.gimp.org">Gimp</a> est un logiciel gratuit et libre (open source). Il fonctionne sur les principaux systèmes d'exploitation dont Microsoft Windows, GNU/Linux et Mac.
 		<br>
 		GIMP possède des outils utilisés pour la retouche et l'édition d'image tels que:
 		<ul>
@@ -23,9 +23,9 @@
 		<img src="images/gimp_screenshot_windows.jpg" alt="gimp" title="Design de Gimp" />
 	</p>
 	
-	<h4> <a href="http://windows.microsoft.com/fr-fr/windows7/products/features/paint">Paint</a> </h4>
+	<h4> Paint </h4>
 	<p>
-		Paint est un logiciel livré avec toutes les versions de Windows. Il vous permet de faire des modifications très basiques sur vos images facilement.
+		<a href="http://windows.microsoft.com/fr-fr/windows7/products/features/paint">Paint</a> est un logiciel livré avec toutes les versions de Windows. Il vous permet de faire des modifications très basiques sur vos images facilement.
 		<br>
 		Ces principales options dans la barre d'outils:
 		<ul>
@@ -50,8 +50,9 @@
 		</ul>
 	</p>
 	
-	<h5>Sources</h5>
 	<p>
+		Sources
+		<br>
 		<a href="http://fr.wikipedia.org/wiki/GIMP"></a>
 	</p>
 </article>
