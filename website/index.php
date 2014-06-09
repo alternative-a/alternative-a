@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <title>Alternative a</title>
+        <link rel="stylesheet" href="style.css" />
     </head>
 
     <body>
@@ -11,7 +12,7 @@
         </header>
         <nav>
             <ul>
-                <li>Home</li>
+                <li><a href="index.php" >Home</a></li>
                 <li>Top</li>
             </ul>
         </nav>
@@ -24,6 +25,7 @@
                 <h2>article 2</h2>
                 <p>blalblabla</p>
             </article>
+            <?php include("article_photoshop.php"); ?>
         </section>
     </body>
 </html>
