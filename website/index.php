@@ -11,7 +11,7 @@
         </header>
         <nav>
             <ul>
-                <li>Home</li>
+                <li><a href="index.php" >Home</a></li>
                 <li>Top</li>
             </ul>
         </nav>
