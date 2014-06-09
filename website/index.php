@@ -24,6 +24,7 @@
                 <h2>article 2</h2>
                 <p>blalblabla</p>
             </article>
+            <?php include("article_photoshop.php"); ?>
         </section>
     </body>
 </html>
