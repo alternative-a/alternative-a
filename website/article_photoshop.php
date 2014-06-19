@@ -3,7 +3,7 @@
 	<p>
 		<a href="http://www.photoshop.com">Photoshop<a/>, le logiciel le plus connu pour le traitement d'images, possède un seul défault: son prix. Heureusement, il existe des logiciels gratuits permettant tout aussi bien de traiter des images.
 	</p>
-	
+
 	<h4> Gimp </h4>
 	<p>
 		<a href="http://www.gimp.org">Gimp</a> est un logiciel gratuit et libre (open source). Il fonctionne sur les principaux systèmes d'exploitation dont Microsoft Windows, GNU/Linux et Mac.
@@ -22,7 +22,7 @@
 		<br>
 		<img src="images/gimp_screenshot_windows.jpg" alt="gimp" title="Design de Gimp" />
 	</p>
-	
+
 	<h4> Paint </h4>
 	<p>
 		<a href="http://windows.microsoft.com/fr-fr/windows7/products/features/paint">Paint</a> est un logiciel livré avec toutes les versions de Windows. Il vous permet de faire des modifications très basiques sur vos images facilement.
@@ -49,11 +49,11 @@
 		<li>rectangle arrondi et autres formes géométriques</li>
 		</ul>
 	</p>
-	
+
 	<p>
 		Sources
 		<br>
-		<a href="http://fr.wikipedia.org/wiki/GIMP"></a>
+		<a href="http://fr.wikipedia.org">Wikipédia</a>
 	</p>
 </article>
 

@@ -3,7 +3,7 @@
 	<p>
 		Internet explorer, le navigateur par défaut de Windows n'est pas le seul navigateur.
 	</p>
-	
+
 	<h4> Mozilla Firefox </h4>
 	<p>
 		<a href="http://www.mozilla.org/fr/firefox/new/"> Mozilla Firefox </a> est un navigateur web libre (open source) et gratuit. Il est très modulable en fonction de l'envie de l'utlisateur grâce à des centaines d'extensions et de thèmes graphiques.
@@ -24,23 +24,23 @@
 		<li>la navigation avec géolocalisation intégrée</li>
 		<li>un lecteur de PDF intégré</li>
 	</p>
-	
+
 	<h4> Google Chrome </h4>
 	<p>
 		<a href="http://www.google.co.uk/intl/fr/chrome/browser/"> Google Chrome </a> est un navigateur très utilisé. Il est fonctionnel sous Windows, Mac, Linux, Android et iOS.
 		<br>
 		Il a été conçu pour être le plus rapide possible.
 	</p>
-	
+
 	<h4> Opéra </h4>
 	<p>
 		<a href="http://www.opera.com/fr"> Opéra </a> est un navigateur peu connu mais est pourtant multiplate-forme (disponible sous Windows, Mac, Linux, Nintendo DS, Wii, ...) et est traduit en de nombreuses langues.
 	</p>
-	
+
 	<div>
 		Pour les développeurs:
 		<br>
-		Firefox est codé en C++ / C, XUL, XBL, JavaScript et CSS. Vous pouvez retrouver le code source et aider les developpeurs en cliquant sur ce lien: <a href="https://developer.mozila.org/fr/docs/Téléchargement_du_code_source_de_Mozilla"></a>
+		Firefox est codé en C++ / C, XUL, XBL, JavaScript et CSS. Vous pouvez retrouver le code source et aider les développeurs en cliquant sur ce lien: <a href="https://developer.mozila.org/fr/docs/Téléchargement_du_code_source_de_Mozilla">Téléchargement_du_code_source_de_Mozilla</a>
 		<br>
 		Google Chrome est codé en Assembly, C++, Java, JavaScript et Python.
 		<br>
@@ -50,6 +50,6 @@
 	<p>
 		Sources
 		<br>
-		<a href="http://fr.wikipedia.org"></a>
+		<a href="http://fr.wikipedia.org">Wikipédia</a>
 	</p>
 </article>
