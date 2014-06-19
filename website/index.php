@@ -17,14 +17,6 @@
             </ul>
         </nav>
         <section>
-            <article>
-                <h2>article 1</h2>
-                <p>blalblabla</p>
-            </article>
-            <article>
-                <h2>article 2</h2>
-                <p>blalblabla</p>
-            </article>
             <?php include("article_photoshop.php"); ?>
         </section>
     </body>
