@@ -17,7 +17,7 @@
             </ul>
         </nav>
         <section>
-            <?php include("article_photoshop.php"); ?>
+            <?php include("articles/article_photoshop.php"); ?>
         </section>
     </body>
 </html>
