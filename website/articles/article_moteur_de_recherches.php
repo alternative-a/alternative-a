@@ -1,28 +1,28 @@
 <article>
-	<h3> <strong> Alternative à Google </strong> </h3>
+	<h3> <strong> Alternative Ã  Google </strong> </h3>
 	<p>
-		Google, le moteur de recherche par défaut de Windows n'est pas le seul moteur de recherche.
+		Google, le moteur de recherche par dÃ©faut de Windows n'est pas le seul moteur de recherche.
 	</p>
 
 	<h4> Duckduckgo </h4>
 	<p>
-		DuckDuckGo, son slogan en dit long: "Google tracks you. We don't". La philosophie de ce moteur de recherche est de recherche est de préserver la vie privée et de ne stocker aucune information personnelle concernant les utilisateurs.
+		DuckDuckGo, son slogan en dit long: "Google tracks you. We don't". La philosophie de ce moteur de recherche est de recherche est de prÃ©server la vie privÃ©e et de ne stocker aucune information personnelle concernant les utilisateurs.
 	</p>
 
 	<h4> Yahoo! </h4>
 	<p>
-		Yahoo! est un moteur de recherche vous permettant de sélectionner et d'annoter les pages et sites web qui vous paraissent être vraiment intéressants (c'est le Social Search).
+		Yahoo! est un moteur de recherche vous permettant de sÃ©lectionner et d'annoter les pages et sites web qui vous paraissent Ãªtre vraiment intÃ©ressants (c'est le Social Search).
 	</p>
 
 	<h4> Bing </h4>
 	<p>
-		Bing offre les options de recherches suivantes: sites web, images, vidéos, shopping, actualité, cartes, voyages, ...
+		Bing offre les options de recherches suivantes: sites web, images, vidÃ©os, shopping, actualitÃ©, cartes, voyages, ...
 	</p>
 
 	<div>
-		Pour les développeurs:
+		Pour les dÃ©veloppeurs:
 		<br>
-		DuckDuckGo est très sécurisé.
+		DuckDuckGo est trÃ¨s sÃ©curisÃ©.
 
 	</div>
 
