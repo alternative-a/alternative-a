@@ -17,15 +17,10 @@
             </ul>
         </nav>
         <section>
-            <article>
-                <h2>article 1</h2>
-                <p>blalblabla</p>
-            </article>
-            <article>
-                <h2>article 2</h2>
-                <p>blalblabla</p>
-            </article>
-            <?php include("article_photoshop.php"); ?>
+            <?php include("articles/article_editeur_de_texte.php"); ?>
+            <?php include("articles/article_moteur_de_recherches.php"); ?>
+            <?php include("articles/article_navigateur.php"); ?>
+            <?php include("articles/article_photoshop.php"); ?>
         </section>
     </body>
 </html>
