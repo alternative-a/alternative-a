@@ -17,6 +17,7 @@
             </ul>
         </nav>
         <section>
+            <?php include("articles/article_mail.php"); ?>
             <?php include("articles/article_editeur_de_texte.php"); ?>
             <?php include("articles/article_moteur_de_recherches.php"); ?>
             <?php include("articles/article_navigateur.php"); ?>
