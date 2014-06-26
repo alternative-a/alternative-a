@@ -8,3 +8,23 @@ body a
 {
     color: black;
 }
+
+body h3
+{
+    color: red;
+    font-size: x-large;
+}
+
+body h4
+{
+    font-size: large;
+}
+
+body article
+{
+    border: 5px red solid;
+    border-radius: 10px;
+    padding: 12px;
+    margin-bottom: 12px;
+}
+
